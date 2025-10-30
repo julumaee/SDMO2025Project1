@@ -12,19 +12,21 @@ import os
 # If you provide a URL, it clones the repo, fetches the commits and then deletes it,
 # so for a big project better clone the repo locally and provide filesystem path
 
-# from pydriller import Repository
-# DEVS = set()
-# for commit in Repository("https://github.com/dotnet-architecture/eShopOnContainers").traverse_commits():
-#     DEVS.add((commit.author.name, commit.author.email))
-#     DEVS.add((commit.committer.name, commit.committer.email))
-#
-# DEVS = sorted(DEVS)
-#
-# with open(os.path.join("project1devs", "devs.csv"), 'w', newline='') as csvfile:
-#     writer = csv.writer(csvfile, delimiter=',', quotechar='"')
-#     writer.writerow(["name", "email"])
-#     writer.writerows(DEVS)
-#
+#from datetime import datetime
+#from pydriller import Repository
+#DEVS = set()
+#for commit in Repository("https://github.com/prometheus/prometheus",
+#                         since=datetime(2022,1,1)).traverse_commits():
+#    DEVS.add((commit.author.name, commit.author.email))
+#    DEVS.add((commit.committer.name, commit.committer.email))
+
+#DEVS = sorted(DEVS)
+
+#with open(os.path.join("project1devs", "devs.csv"), 'w', newline='') as csvfile:
+#    writer = csv.writer(csvfile, delimiter=',', quotechar='"')
+#    writer.writerow(["name", "email"])
+#    writer.writerows(DEVS)
+
 
 # This block of code reads an existing csv of developers
 
@@ -113,7 +115,7 @@ df.to_csv(os.path.join("project1devs", "devs_similarity.csv"), index=False, head
 
 
 # Set similarity threshold, check c1-c3 against the threshold
-t=0.7
+t=0.75
 print("Threshold:", t)
 df["c1_check"] = df["c1"] >= t
 df["c2_check"] = df["c2"] >= t

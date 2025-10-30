@@ -1,0 +1,186 @@
+name_1,email_1,name_2,email_2,c1,c2,c3.1,c3.2,c4,c5,c6,c7,FP/TP,hit_1,hit_2,hit_3,hit_4,hit_5,hit_6,hit_7,HITS
+Gabriel Bernal,gabrielbernalp@gmail.com,Gabriel Goller,gabrielgoller123@gmail.com,0.714285714,0.6,1,0.333333333,FALSE,TRUE,FALSE,TRUE,FP,1,,,,1,,1,3
+dongjiang,dongjiang1989@126.com,songjiayang,songjiayang1@gmail.com,0.8,0.72,0.8,1,FALSE,FALSE,FALSE,FALSE,FP,1,1,1,,,,,3
+haleyao,haleyao@tencent.com,heyitao,heyitao@uniontech.com,0.714285714,0.714285714,0.714285714,1,FALSE,FALSE,FALSE,FALSE,FP,1,1,1,,,,,3
+jingchanglu,jingchanglu@outlook.com,pinglanlu,pinglanlu@outlook.com,0.7,0.7,0.7,1,FALSE,FALSE,FALSE,FALSE,FP,1,1,1,,,,,3
+Alex Greenbank,alex@greenbank.org,Alexander Trost,galexrt@googlemail.com,0.413793103,0.727272727,0.615384615,0.142857143,FALSE,TRUE,FALSE,FALSE,FP,,1,,,1,,,2
+AxcelXander,72107018+AxcelXander@users.noreply.github.com,xander,xander.garbett@clickhouse.com,0.705882353,0.352941176,0.705882353,1,FALSE,FALSE,FALSE,FALSE,FP,1,,1,,,,,2
+Daniel Nicholls,daniel.nicholls@resdiary.com,Daniel Swarbrick,daniel.swarbrick@gmail.com,0.580645161,0.580645161,1,0.235294118,FALSE,TRUE,FALSE,TRUE,FP,,,,,1,,1,2
+Gabriel Bernal,gbernal@redhat.com,Gabriel Goller,gabrielgoller123@gmail.com,0.714285714,0.347826087,1,0.333333333,FALSE,TRUE,FALSE,FALSE,FP,1,,,,1,,,2
+Harkishen Singh,harkishensingh@hotmail.com,Nishant Singh,nishant@heim.id,0.714285714,0.380952381,0.5,1,FALSE,FALSE,TRUE,FALSE,FP,1,,,,,1,,2
+Matt,33697686+mttradebyte@users.noreply.github.com,Matthew,mtfoley.mae@gmail.com,0.727272727,0.322580645,0.727272727,1,FALSE,FALSE,FALSE,FALSE,FP,1,,1,,,,,2
+Michael,cloudyonspring@126.com,michaelact,86778470+michaelact@users.noreply.github.com,0.823529412,0.121212121,0.823529412,1,FALSE,FALSE,FALSE,FALSE,FP,1,,1,,,,,2
+Pablo Baeyens,pbaeyens31+github@gmail.com,Pablo Ley,pablo_ley@hotmail.com,0.727272727,0.307692308,1,0.4,FALSE,TRUE,FALSE,FALSE,FP,1,,,,1,,,2
+Pedro Kaj Kjellerup Nacht,pedro.k.night@gmail.com,Pedro Tanaka,pedro.tanaka@shopify.com,0.486486486,0.56,1,0.24,FALSE,TRUE,FALSE,TRUE,FP,,,,,1,,1,2
+Pedro Nacht,pedro.k.night@gmail.com,Pedro Tanaka,pedro.tanaka@shopify.com,0.695652174,0.56,1,0.363636364,FALSE,TRUE,FALSE,TRUE,FP,,,,,1,,1,2
+Victor Herrero Otal,victor.herrero.otal@sap.com,Victor Häggqvist,victorhaggqvist@users.noreply.github.com,0.514285714,0.470588235,1,0.19047619,FALSE,TRUE,FALSE,TRUE,FP,,,,,1,,1,2
+dongjiang,dongjiang1989@126.com,shandongzhejiang,shandongzhejiang@icloud.com,0.72,0.620689655,0.72,1,FALSE,FALSE,FALSE,FALSE,FP,1,,1,,,,,2
+dongjiang,dongjiang1989@126.com,songjiayang,songjiayang@users.noreply.github.com,0.8,0.666666667,0.8,1,FALSE,FALSE,FALSE,FALSE,FP,1,,1,,,,,2
+Adam Bernot,bernot@google.com,Björn Rabenstein,beorn@grafana.com,0.37037037,0.727272727,0,0.5,FALSE,FALSE,FALSE,FALSE,FP,,1,,,,,,1
+Adam Bernot,bernot@google.com,beorn7,beorn@grafana.com,0.470588235,0.727272727,0,0,FALSE,FALSE,FALSE,FALSE,FP,,1,,,,,,1
+Cristian Greco,cristian@regolo.cc,Tristan Colgate-McFarlane,tristan@cerbos.dev,0.526315789,0.8,0.8,0.285714286,FALSE,FALSE,FALSE,FALSE,FP,,1,,,,,,1
+Daniel Kerbel,nmdanny@gmail.com,Danny Staple,danny@orionrobots.co.uk,0.4,0.833333333,0.545454545,0.166666667,FALSE,FALSE,FALSE,FALSE,FP,,1,,,,,,1
+Jan Horstmann,horstmann@osism.tech,Miguel Ángel Ortuño,ortuman@gmail.com,0.4375,0.75,0,0.380952381,FALSE,FALSE,FALSE,FALSE,FP,,1,,,,,,1
+Jan-Otto Kröpke,joe@cloudeteer.de,Joel Beckmeyer,joel@beckmeyer.us,0.357142857,0.857142857,0.363636364,0.266666667,FALSE,FALSE,FALSE,FALSE,FP,,1,,,,,,1
+Jayapriya Pai,janantha@redhat.com,Jonathan Halterman,jonathan@grafana.com,0.322580645,0.75,0.352941176,0.166666667,FALSE,FALSE,FALSE,FALSE,FP,,1,,,,,,1
+Jonathan Halterman,jhalterman@gmail.com,Jules Casteran,jcasteran@scaleway.com,0.5,0.736842105,0.153846154,0.705882353,FALSE,FALSE,FALSE,FALSE,FP,,1,,,,,,1
+Matheus Pimenta,pimenta@arista.com,Robert Jacob,xperimental@solidproject.de,0.222222222,0.777777778,0.153846154,0.166666667,FALSE,FALSE,FALSE,FALSE,FP,,1,,,,,,1
+Nishant Singh,nishant@heim.id,Vishal N,vishaln@Vishals-MacBook-Air.local,0.571428571,0.714285714,0.615384615,0.333333333,FALSE,FALSE,FALSE,FALSE,FP,,1,,,,,,1
+Raúl Naveiras,me@raulnaveiras.com,sh0rez,me@shorez.de,0.210526316,1,0.2,0,FALSE,FALSE,FALSE,FALSE,FP,,1,,,,,,1
+Artur Melanchyk,artur.melanchyk@gmail.com,Artur Melanchyk,arturmelanchyk@imail.name,1,0.965517241,1,1,TRUE,TRUE,TRUE,TRUE,TP,1,1,1,1,1,1,1,7
+Charles Korn,charles.korn@grafana.com,Charles Korn,charleskorn@users.noreply.github.com,1,0.956521739,1,1,TRUE,TRUE,TRUE,TRUE,TP,1,1,1,1,1,1,1,7
+Fiona Liao,fiona.liao@grafana.com,Fiona Liao,fiona.y.liao@gmail.com,1,0.909090909,1,1,TRUE,TRUE,TRUE,TRUE,TP,1,1,1,1,1,1,1,7
+Jesus Vazquez,jesus.vazquez@grafana.com,Jesus Vazquez,jesusvazquez@users.noreply.github.com,1,0.96,1,1,TRUE,TRUE,TRUE,TRUE,TP,1,1,1,1,1,1,1,7
+Julien Duchesne,julien.duchesne@grafana.com,Julien Duchesne,julienduchesne@live.com,1,0.965517241,1,1,TRUE,TRUE,TRUE,TRUE,TP,1,1,1,1,1,1,1,7
+Matthieu MOREL,matthieu.morel35@gmail.com,Matthieu Morel,matthieu.morel@cnp.fr,1,0.933333333,1,1,TRUE,TRUE,TRUE,TRUE,TP,1,1,1,1,1,1,1,7
+Shan Aminzadeh,shan.aminzadeh@chronosphere.io,Shan Aminzadeh,shan.aminzadeh@gmail.com,1,1,1,1,TRUE,TRUE,TRUE,TRUE,TP,1,1,1,1,1,1,1,7
+Sujal Shah,sujalshah28092004@gmail.com,sujal shah,sujalshah28092004@gmail.com,1,1,1,1,TRUE,TRUE,TRUE,TRUE,TP,1,1,1,1,1,1,1,7
+Augustin Husson,augustin.husson@amadeus.com,Augustin Husson,husson.augustin@gmail.com,1,0.533333333,1,1,TRUE,TRUE,TRUE,TRUE,TP,1,,1,1,1,1,1,6
+Ganesh Vernekar,ganesh.vernekar@reddit.com,Ganesh Vernekar,ganeshvern@gmail.com,1,0.8,1,1,FALSE,TRUE,TRUE,TRUE,TP,1,1,1,,1,1,1,6
+Justin Lei,justin.lei@grafana.com,Justin Lei,lei.justin@gmail.com,1,0.6,1,1,TRUE,TRUE,TRUE,TRUE,TP,1,,1,1,1,1,1,6
+Nicolas Peugnet,n.peugnet@free.fr,Nicolas Peugnet,nicolas.peugnet@lip6.fr,1,0.75,1,1,TRUE,TRUE,TRUE,FALSE,TP,1,1,1,1,1,1,,6
+Paulo Dias,44772900+paulojmdias@users.noreply.github.com,Paulo Dias,paulodias.gm@gmail.com,1,0.5625,1,1,TRUE,TRUE,TRUE,TRUE,TP,1,,1,1,1,1,1,6
+Arthur Silva Sens,arthur.sens@coralogix.com,Arthur Silva Sens,arthursens2005@gmail.com,1,0.8,1,1,FALSE,TRUE,FALSE,TRUE,TP,1,1,1,,1,,1,5
+Ben Ye,ben.ye@bytedance.com,Ben Ye,benye@amazon.com,1,0.909090909,1,1,FALSE,TRUE,FALSE,TRUE,TP,1,1,1,,1,,1,5
+Chance Feick,6326742+chancefeick@users.noreply.github.com,Chance Feick,cfeick@gitlab.com,1,0.48,1,1,TRUE,FALSE,TRUE,TRUE,TP,1,,1,1,,1,1,5
+Daniel Mellado,1313475+danielmellado@users.noreply.github.com,Daniel Mellado,dmellado@redhat.com,1,0.551724138,1,1,TRUE,FALSE,TRUE,TRUE,TP,1,,1,1,,1,1,5
+Francis Begyn,francis.begyn@gmail.com,Francis Begyn,francis@begyn.be,1,0.7,1,1,FALSE,FALSE,TRUE,TRUE,TP,1,1,1,,,1,1,5
+Gabriel Bernal,gabrielbernalp@gmail.com,Gabriel Bernal,gbernal@redhat.com,1,0.666666667,1,1,TRUE,FALSE,TRUE,TRUE,TP,1,,1,1,,1,1,5
+Goutham Veeramachaneni,gouthamve+github@gmail.com,Goutham Veeramachaneni,gouthamve@gmail.com,1,0.72,1,1,FALSE,TRUE,FALSE,TRUE,TP,1,1,1,,1,,1,5
+Jesus Vazquez,jesus.vazquez@grafana.com,Jesus Vazquez,jesusvzpg@gmail.com,1,0.636363636,1,1,FALSE,TRUE,TRUE,TRUE,TP,1,,1,,1,1,1,5
+Jesus Vazquez,jesusvazquez@users.noreply.github.com,Jesus Vazquez,jesusvzpg@gmail.com,1,0.666666667,1,1,FALSE,TRUE,TRUE,TRUE,TP,1,,1,,1,1,1,5
+Kemal Akkoyun,kakkoyun@gmail.com,Kemal Akkoyun,kakkoyun@users.noreply.github.com,1,1,1,1,TRUE,FALSE,TRUE,FALSE,TP,1,1,1,1,,1,,5
+Linas Medziunas,linas.medziunas@gmail.com,Linas Medžiūnas,linasm@users.noreply.github.com,1,0.571428571,1,1,FALSE,TRUE,TRUE,TRUE,TP,1,,1,,1,1,1,5
+Manik Rana,Manikrana54@gmail.com,Manik Rana,manikrana54@gmail.com,1,0.909090909,1,1,TRUE,TRUE,FALSE,FALSE,TP,1,1,1,1,1,,,5
+Marc Tuduri,marctc@protonmail.com,Marc Tudurí,marctc@protonmail.com,1,1,1,1,FALSE,TRUE,FALSE,TRUE,TP,1,1,1,,1,,1,5
+Matthieu MOREL,matthieu.morel35@gmail.com,Matthieu MOREL,mmorel-35@users.noreply.github.com,1,0.64,1,1,TRUE,FALSE,TRUE,TRUE,TP,1,,1,1,,1,1,5
+Matthieu MOREL,mmorel-35@users.noreply.github.com,Matthieu Morel,matthieu.morel@cnp.fr,1,0.52173913,1,1,TRUE,TRUE,TRUE,FALSE,TP,1,,1,1,1,1,,5
+Paschalis Tsilias,paschalist0@gmail.com,Paschalis Tsilias,tpaschalis@users.noreply.github.com,1,0.857142857,1,1,FALSE,TRUE,FALSE,TRUE,TP,1,1,1,,1,,1,5
+Sebastian Rabenhorst,4246554+rabenhorst@users.noreply.github.com,Sebastian Rabenhorst,sebastian.rabenhorst@shopify.com,1,0.526315789,1,1,TRUE,TRUE,TRUE,FALSE,TP,1,,1,1,1,1,,5
+Will Hegedus,whegedus@akamai.com,Will Hegedus,whegedus@linode.com,1,1,1,1,TRUE,FALSE,TRUE,FALSE,TP,1,1,1,1,,1,,5
+ADITYA TIWARI,142050150+ADITYATIWARI342005@users.noreply.github.com,Aditya Tiwari,adityatiwari342005@gmail.com,1,0.260869565,1,1,TRUE,TRUE,FALSE,FALSE,TP,1,,1,1,1,,,4
+Alex Greenbank,alex.greenbank@grafana.com,Alex Greenbank,alex@greenbank.org,1,0.444444444,1,1,FALSE,FALSE,TRUE,TRUE,TP,1,,1,,,1,1,4
+Alex Greenbank,alex.greenbank@grafana.com,alexgreenbank,alex.greenbank@grafana.com,0.962962963,1,0.470588235,0,TRUE,TRUE,FALSE,FALSE,TP,1,1,,1,1,,,4
+Antoine Pultier,45740+fungiboletus@users.noreply.github.com,Antoine Pultier,antoine.pultier@sintef.no,1,0.242424242,1,1,TRUE,TRUE,FALSE,FALSE,TP,1,,1,1,1,,,4
+Arianna Vespri,36129782+vesari@users.noreply.github.com,Arianna Vespri,arianna.vespri@yahoo.it,1,0.344827586,1,1,TRUE,TRUE,FALSE,FALSE,TP,1,,1,1,1,,,4
+David N Perkins,David.N.Perkins@ibm.com,David N Perkins,david.n.perkins@ibm.com,1,0.8,1,1,FALSE,TRUE,FALSE,FALSE,TP,1,1,1,,1,,,4
+Ganesh Vernekar,15064823+codesome@users.noreply.github.com,Ganesh Vernekar,ganesh.vernekar@reddit.com,1,0.1875,1,1,TRUE,TRUE,FALSE,FALSE,TP,1,,1,1,1,,,4
+Jonathan Halterman,jhalterman@gmail.com,Jonathan Halterman,jonathan@grafana.com,1,0.555555556,1,1,FALSE,TRUE,TRUE,FALSE,TP,1,,1,,1,1,,4
+Justin Lei,97976793+leizor@users.noreply.github.com,Justin Lei,justin.lei@grafana.com,1,0.24,1,1,TRUE,TRUE,FALSE,FALSE,TP,1,,1,1,1,,,4
+Justin Lei,97976793+leizor@users.noreply.github.com,Justin Lei,lei.justin@gmail.com,1,0.24,1,1,TRUE,TRUE,FALSE,FALSE,TP,1,,1,1,1,,,4
+Kushal shukla,85934954+kushalShukla-web@users.noreply.github.com,kushagra Shukla,kushalshukla110@gmail.com,0.857142857,0.55,0.714285714,1,TRUE,TRUE,FALSE,FALSE,TP,1,,1,1,1,,,4
+Levi Harrison,git@leviharrison.dev,Levi Harrison,levisamuelharrison@gmail.com,1,0.095238095,1,1,TRUE,TRUE,FALSE,FALSE,TP,1,,1,1,1,,,4
+Lukasz Mierzwa,l.mierzwa@gmail.com,Łukasz Mierzwa,l.mierzwa@gmail.com,0.928571429,1,0.833333333,1,TRUE,FALSE,FALSE,FALSE,TP,1,1,1,1,,,,4
+Michael Hoffmann,mhoffm@posteo.de,Michael Hoffmann,mhoffmann@cloudflare.com,1,0.8,1,1,TRUE,FALSE,FALSE,FALSE,TP,1,1,1,1,,,,4
+Michal Biesek,michalbiesek@gmail.com,michalbiesek,michalbiesek@gmail.com,0.96,1,0.666666667,0,TRUE,TRUE,FALSE,FALSE,TP,1,1,,1,1,,,4
+Neeraj Gartia,80708727+NeerajGartia21@users.noreply.github.com,Neeraj Gartia,neerajgartia211002@gmail.com,1,0.585365854,1,1,TRUE,TRUE,FALSE,FALSE,TP,1,,1,1,1,,,4
+Alan Protasio,alanprot@gmail.com,Alan Protasio,approtas@amazon.com,1,0.625,1,1,FALSE,FALSE,FALSE,TRUE,TP,1,,1,,,,1,3
+Alex Greenbank,alex@greenbank.org,alexgreenbank,alex.greenbank@grafana.com,0.962962963,0.444444444,0.470588235,0,TRUE,TRUE,FALSE,FALSE,TP,1,,,1,1,,,3
+Arunprasad Rajkumar,ar.arunprasad@gmail.com,Arunprasad Rajkumar,arajkuma@redhat.com,1,0.476190476,1,1,FALSE,FALSE,FALSE,TRUE,TP,1,,1,,,,1,3
+Ashish Kurmi,100655670+boahc077@users.noreply.github.com,Ashish Kurmi,akurmi@stepsecurity.io,1,0.083333333,1,1,TRUE,FALSE,FALSE,FALSE,TP,1,,1,1,,,,3
+Ayoub Mrini,ayoubmrini424@gmail.com,machine424,ayoubmrini424@gmail.com,0.285714286,1,0.133333333,0,TRUE,TRUE,FALSE,FALSE,TP,,1,,1,1,,,3
+Filip Petkovski,filip.petkovsky@gmail.com,fpetkovski,filip.petkovsky@gmail.com,0.8,1,0.266666667,0,FALSE,TRUE,FALSE,FALSE,TP,1,1,,,1,,,3
+Gabriel Goller,gabrielgoller123@gmail.com,kaffarell,gabrielgoller123@gmail.com,0.434782609,1,0.5,0,TRUE,TRUE,FALSE,FALSE,TP,,1,,1,1,,,3
+Ganesh Vernekar,15064823+codesome@users.noreply.github.com,Ganesh Vernekar,ganeshvern@gmail.com,1,0.222222222,1,1,FALSE,TRUE,FALSE,FALSE,TP,1,,1,,1,,,3
+Jan Fajerski,jan--f@users.noreply.github.com,Jan Fajerski,jfajersk@redhat.com,1,0.285714286,1,1,FALSE,FALSE,FALSE,TRUE,TP,1,,1,,,,1,3
+Jesus Vazquez,jesus.vazquez@grafana.com,Signed-off-by: Jesus Vazquez,jesus.vazquez@grafana.com,0.684210526,1,0.125,0.7,TRUE,TRUE,FALSE,FALSE,TP,,1,,1,1,,,3
+Jesus Vazquez,jesusvazquez@users.noreply.github.com,Signed-off-by: Jesus Vazquez,jesus.vazquez@grafana.com,0.684210526,0.96,0.125,0.7,TRUE,TRUE,FALSE,FALSE,TP,,1,,1,1,,,3
+Jorge Alberto Díaz Orozco,diazorozcoj@gmail.com,Jorge Alberto Díaz Orozco,jorge.diaz@riskident.com,1,0.380952381,1,1,FALSE,TRUE,FALSE,FALSE,TP,1,,1,,1,,,3
+Joshua Hesketh,josh@hesketh.net.au,Joshua Hesketh,josh@nitrotech.org,1,1,1,1,FALSE,FALSE,FALSE,FALSE,TP,1,1,1,,,,,3
+Julien,291750+roidelapluie@users.noreply.github.com,Julien,roidelapluie@o11y.eu,1,0.774193548,1,1,FALSE,FALSE,FALSE,FALSE,TP,1,1,1,,,,,3
+Julien Pivotto,291750+roidelapluie@users.noreply.github.com,Julien Pivotto,roidelapluie@gmail.com,1,0.774193548,1,1,FALSE,FALSE,FALSE,FALSE,TP,1,1,1,,,,,3
+Julien Pivotto,291750+roidelapluie@users.noreply.github.com,Julien Pivotto,roidelapluie@inuits.eu,1,0.774193548,1,1,FALSE,FALSE,FALSE,FALSE,TP,1,1,1,,,,,3
+Julien Pivotto,291750+roidelapluie@users.noreply.github.com,Julien Pivotto,roidelapluie@o11y.eu,1,0.774193548,1,1,FALSE,FALSE,FALSE,FALSE,TP,1,1,1,,,,,3
+Julien Pivotto,roidelapluie@gmail.com,Julien Pivotto,roidelapluie@inuits.eu,1,1,1,1,FALSE,FALSE,FALSE,FALSE,TP,1,1,1,,,,,3
+Julien Pivotto,roidelapluie@gmail.com,Julien Pivotto,roidelapluie@o11y.eu,1,1,1,1,FALSE,FALSE,FALSE,FALSE,TP,1,1,1,,,,,3
+Julien Pivotto,roidelapluie@inuits.eu,Julien Pivotto,roidelapluie@o11y.eu,1,1,1,1,FALSE,FALSE,FALSE,FALSE,TP,1,1,1,,,,,3
+Lukasz Mierzwa,l.mierzwa@gmail.com,Lukasz Mierzwa,lukasz@cloudflare.com,1,0.266666667,1,1,FALSE,FALSE,TRUE,FALSE,TP,1,,1,,,1,,3
+Lukasz Mierzwa,lukasz@cloudflare.com,Łukasz Mierzwa,l.mierzwa@gmail.com,0.928571429,0.266666667,0.833333333,1,TRUE,FALSE,FALSE,FALSE,TP,1,,1,1,,,,3
+Lukasz Mierzwa,lukasz@cloudflare.com,Łukasz Mierzwa,lukasz@cloudflare.com,0.928571429,1,0.833333333,1,FALSE,FALSE,FALSE,FALSE,TP,1,1,1,,,,,3
+Oleksandr Redko,Oleksandr_Redko@epam.com,Oleksandr Redko,oleksandr.red+github@gmail.com,1,0.571428571,1,1,FALSE,TRUE,FALSE,FALSE,TP,1,,1,,1,,,3
+Pedro Kaj Kjellerup Nacht,pedro.k.night@gmail.com,Pedro Kaj Kjellerup Nacht,pnacht@google.com,1,0.421052632,1,1,FALSE,FALSE,FALSE,TRUE,TP,1,,1,,,,1,3
+Pedro Kaj Kjellerup Nacht,pedro.k.night@gmail.com,Pedro Nacht,pedro.k.night@gmail.com,0.611111111,1,1,0.416666667,FALSE,TRUE,FALSE,TRUE,TP,,1,,,1,,1,3
+Sergey,83376337+freak12techno@users.noreply.github.com,Sergey,freak12techno@gmail.com,1,0.742857143,1,1,FALSE,FALSE,FALSE,FALSE,TP,1,1,1,,,,,3
+Sniper91,kevinzhao91@outlook.com,sniper91,kevinzhao91@outlook.com,1,1,1,1,FALSE,FALSE,FALSE,FALSE,TP,1,1,1,,,,,3
+TJ Hoplock,33664289+tjhop@users.noreply.github.com,TJ Hoplock,t.hoplock@gmail.com,1,0.347826087,1,1,TRUE,FALSE,FALSE,FALSE,TP,1,,1,1,,,,3
+Xiaochao Dong,the.xcdong@gmail.com,Xiaochao Dong (@damnever),the.xcdong@gmail.com,0.742857143,1,1,0.470588235,TRUE,FALSE,FALSE,FALSE,TP,1,1,,1,,,,3
+Zhengke Zhou,madzhou1@gmail.com,zhengkezhou1,madzhou1@gmail.com,0.916666667,1,0.736842105,0,TRUE,FALSE,FALSE,FALSE,TP,1,1,,1,,,,3
+cuiweiyuan,cuiweiyuan@aliyun.com,cuiweiyuan,cuiweiyuan@aliyun.com.,1,1,1,1,FALSE,FALSE,FALSE,FALSE,TP,1,1,1,,,,,3
+guangwu,guoguangwug@gmail.com,guoguangwu,guoguangwug@gmail.com,0.823529412,1,0.823529412,1,FALSE,FALSE,FALSE,FALSE,TP,1,1,1,,,,,3
+ouyang1204,ouyang1204@gmail.com,ouyang1204@gmail.com,ouyang1204@gmail.com,0.714285714,1,0.714285714,1,FALSE,FALSE,FALSE,FALSE,TP,1,1,1,,,,,3
+songjiayang,songjiayang1@gmail.com,songjiayang,songjiayang@users.noreply.github.com,1,0.956521739,1,1,FALSE,FALSE,FALSE,FALSE,TP,1,1,1,,,,,3
+ADITYA TIWARI,142050150+ADITYATIWARI342005@users.noreply.github.com,ADITYATIWARI342005,142050150+ADITYATIWARI342005@users.noreply.github.com,0.774193548,1,0.5,0,FALSE,FALSE,FALSE,FALSE,TP,1,1,,,,,,2
+Alex Le,emoc1989@gmail.com,Alex Le,leqiyue@amazon.com,1,0.133333333,1,1,FALSE,FALSE,FALSE,FALSE,TP,1,,1,,,,,2
+Bartlomiej Plotka,bwplotka@gmail.com,bwplotka,bwplotka@gmail.com,0.56,1,0.333333333,0,TRUE,FALSE,FALSE,FALSE,TP,,1,,1,,,,2
+Ben Ye,ben.ye@bytedance.com,yeya24,benye@amazon.com,0.333333333,0.909090909,0.222222222,0,FALSE,TRUE,FALSE,FALSE,TP,,1,,,1,,,2
+Ben Ye,benye@amazon.com,yeya24,benye@amazon.com,0.333333333,1,0.222222222,0,FALSE,TRUE,FALSE,FALSE,TP,,1,,,1,,,2
+George Krajcsovits,krajorama@users.noreply.github.com,György Krajcsovits,gyorgy.krajcsovits@grafana.com,0.888888889,0.37037037,0.666666667,1,TRUE,FALSE,FALSE,FALSE,TP,1,,,1,,,,2
+Goutham,gouthamve@gmail.com,Goutham Veeramachaneni,gouthamve+github@gmail.com,0.482758621,0.72,1,0,FALSE,FALSE,FALSE,TRUE,TP,,1,,,,,1,2
+Goutham,gouthamve@gmail.com,Goutham Veeramachaneni,gouthamve@gmail.com,0.482758621,1,1,0,FALSE,FALSE,FALSE,TRUE,TP,,1,,,,,1,2
+Harry John,johrry@amazon.com,🌲 Harry 🌊 John 🏔,johrry@amazon.com,0.769230769,1,0,0.444444444,FALSE,FALSE,FALSE,FALSE,TP,1,1,,,,,,2
+Jan-Otto Kröpke,github@jkroepke.de,Jan-Otto Kröpke,joe@cloudeteer.de,1,0,1,1,FALSE,FALSE,FALSE,FALSE,TP,1,,1,,,,,2
+Jan-Otto Kröpke,github@jkroepke.de,Jan-Otto Kröpke,mail@jkroepke.de,1,0,1,1,FALSE,FALSE,FALSE,FALSE,TP,1,,1,,,,,2
+Jan-Otto Kröpke,joe@cloudeteer.de,Jan-Otto Kröpke,mail@jkroepke.de,1,0,1,1,FALSE,FALSE,FALSE,FALSE,TP,1,,1,,,,,2
+Jayapriya Pai,janantha@redhat.com,Jayapriya Pai,slashpai9@gmail.com,1,0.352941176,1,1,FALSE,FALSE,FALSE,FALSE,TP,1,,1,,,,,2
+Jesus Vazquez,jesusvzpg@gmail.com,Signed-off-by: Jesus Vazquez,jesus.vazquez@grafana.com,0.684210526,0.636363636,0.125,0.7,TRUE,TRUE,FALSE,FALSE,TP,,,,1,1,,,2
+Lukasz Mierzwa,l.mierzwa@gmail.com,Łukasz Mierzwa,lukasz@cloudflare.com,0.928571429,0.266666667,0.833333333,1,FALSE,FALSE,FALSE,FALSE,TP,1,,1,,,,,2
+Minh Nguyen,148210689+pipiland2612@users.noreply.github.com,pipiland2612,nguyen.t.dang.minh@gmail.com,0.173913043,0.1,0.25,0,TRUE,TRUE,FALSE,FALSE,TP,,,,1,1,,,2
+Nihal,38865967+wasim-nihal@users.noreply.github.com,Wasim Nihal,sswasim64@gmail.com,0.625,0.344827586,0.2,0,FALSE,FALSE,TRUE,TRUE,TP,,,,,,1,1,2
+Nishant Singh,nishant@heim.id,tesla59,nishant@heim.id,0.2,1,0.285714286,0,FALSE,TRUE,FALSE,FALSE,TP,,1,,,1,,,2
+Pedro Kaj Kjellerup Nacht,pnacht@google.com,Pedro Nacht,pedro.k.night@gmail.com,0.611111111,0.421052632,1,0.416666667,FALSE,TRUE,TRUE,FALSE,TP,,,,,1,1,,2
+Sandro,sandro.jaeckel@gmail.com,Sandro Jäckel,sandro.jaeckel@gmail.com,0.631578947,1,1,0,FALSE,FALSE,FALSE,TRUE,TP,,1,,,,,1,2
+Sebastian Rabenhorst,sebastian.rabenhorst@shopify.com,Sebastian Schubert,basti@schubert.digital,0.736842105,0.4,1,0.444444444,FALSE,FALSE,FALSE,TRUE,TP,1,,,,,,1,2
+Vanshika,102902652+Vanshikav123@users.noreply.github.com,vanshika,102902652+Vperiodt@users.noreply.github.com,1,0.6,1,1,FALSE,FALSE,FALSE,FALSE,TP,1,,1,,,,,2
+Vishal N,vishaln@Vishals-MacBook-Air.local,Vishal Nadagouda,vishalmn1996@gmail.com,0.666666667,0.736842105,1,0.2,FALSE,FALSE,FALSE,TRUE,TP,,1,,,,,1,2
+Yuri Nikolic,durica.nikolic@grafana.com,Đurica Yuri Nikolić,durica.nikolic@grafana.com,0.774193548,1,0.6,0.736842105,FALSE,FALSE,FALSE,FALSE,TP,1,1,,,,,,2
+ian woolf,btw515wolf2@gmail.com,ianwoolf,btw515wolf2@gmail.com,0.941176471,1,0.545454545,0,FALSE,FALSE,FALSE,FALSE,TP,1,1,,,,,,2
+jub0bs,52325150+jub0bs@users.noreply.github.com,jub0bs,jcretel-infosec+github@protonmail.com,1,0.162162162,1,1,FALSE,FALSE,FALSE,FALSE,TP,1,,1,,,,,2
+yngwiewang,64290793+yngwiewang@users.noreply.github.com,yngwiewang,yngwiewang@163.com,1,0.689655172,1,1,FALSE,FALSE,FALSE,FALSE,TP,1,,1,,,,,2
+Đurica Yuri Nikolić,durica.nikolic@grafana.com,Đurica Yuri Nikolić,nikolic.durica@gmail.com,1,0.5,1,1,FALSE,FALSE,FALSE,FALSE,TP,1,,1,,,,,2
+Łukasz Mierzwa,l.mierzwa@gmail.com,Łukasz Mierzwa,lukasz@cloudflare.com,1,0.266666667,1,1,FALSE,FALSE,FALSE,FALSE,TP,1,,1,,,,,2
+Ben Kochie,superq@gmail.com,SuperQ,superq@gmail.com,0.125,1,0.222222222,0,FALSE,FALSE,FALSE,FALSE,TP,,1,,,,,,1
+Björn Rabenstein,beorn@grafana.com,beorn7,beorn@grafana.com,0.363636364,1,0.727272727,0,FALSE,FALSE,FALSE,FALSE,TP,,1,,,,,,1
+Darshan Chaudhary,deathbullet@gmail.com,darshanime,deathbullet@gmail.com,0.518518519,1,0.823529412,0,FALSE,FALSE,FALSE,FALSE,TP,,1,,,,,,1
+DrAuYueng,ouyang1204@gmail.com,ouyang1204,ouyang1204@gmail.com,0.421052632,1,0.421052632,1,FALSE,FALSE,FALSE,FALSE,TP,,1,,,,,,1
+DrAuYueng,ouyang1204@gmail.com,ouyang1204@gmail.com,ouyang1204@gmail.com,0.296296296,1,0.296296296,1,FALSE,FALSE,FALSE,FALSE,TP,,1,,,,,,1
+DrAuYueng,ouyang1204@gmail.com,unknown,ouyang1204@gmail.com,0.25,1,0.25,1,FALSE,FALSE,FALSE,FALSE,TP,,1,,,,,,1
+Julien,291750+roidelapluie@users.noreply.github.com,Julien Pivotto,291750+roidelapluie@users.noreply.github.com,0.6,1,1,0,FALSE,FALSE,FALSE,FALSE,TP,,1,,,,,,1
+Julien,291750+roidelapluie@users.noreply.github.com,Julien Pivotto,roidelapluie@gmail.com,0.6,0.774193548,1,0,FALSE,FALSE,FALSE,FALSE,TP,,1,,,,,,1
+Julien,291750+roidelapluie@users.noreply.github.com,Julien Pivotto,roidelapluie@inuits.eu,0.6,0.774193548,1,0,FALSE,FALSE,FALSE,FALSE,TP,,1,,,,,,1
+Julien,291750+roidelapluie@users.noreply.github.com,Julien Pivotto,roidelapluie@o11y.eu,0.6,0.774193548,1,0,FALSE,FALSE,FALSE,FALSE,TP,,1,,,,,,1
+Julien,roidelapluie@o11y.eu,Julien Pivotto,291750+roidelapluie@users.noreply.github.com,0.6,0.774193548,1,0,FALSE,FALSE,FALSE,FALSE,TP,,1,,,,,,1
+Julien,roidelapluie@o11y.eu,Julien Pivotto,roidelapluie@gmail.com,0.6,1,1,0,FALSE,FALSE,FALSE,FALSE,TP,,1,,,,,,1
+Julien,roidelapluie@o11y.eu,Julien Pivotto,roidelapluie@inuits.eu,0.6,1,1,0,FALSE,FALSE,FALSE,FALSE,TP,,1,,,,,,1
+Julien,roidelapluie@o11y.eu,Julien Pivotto,roidelapluie@o11y.eu,0.6,1,1,0,FALSE,FALSE,FALSE,FALSE,TP,,1,,,,,,1
+Marc Tuduri,marctc@protonmail.com,Marco Pracucci,marco@pracucci.com,0.56,0.727272727,0.888888889,0.285714286,FALSE,FALSE,FALSE,FALSE,TP,,1,,,,,,1
+Marc Tudurí,marctc@protonmail.com,Marco Pracucci,marco@pracucci.com,0.56,0.727272727,0.888888889,0.285714286,FALSE,FALSE,FALSE,FALSE,TP,,1,,,,,,1
+Matthew,mtfoley.mae@gmail.com,mtfoley,mtfoley.mae@gmail.com,0.428571429,1,0.428571429,1,FALSE,FALSE,FALSE,FALSE,TP,,1,,,,,,1
+Raphael Philipe Mendes da Silva,rapphil@gmail.com,Raphael Silva,rapphil@gmail.com,0.590909091,1,1,0.357142857,FALSE,FALSE,FALSE,FALSE,TP,,1,,,,,,1
+Vishal N,vishaln@Vishals-MacBook-Air.local,tesla59,nishant@heim.id,0.266666667,0.714285714,0.307692308,0,FALSE,FALSE,FALSE,FALSE,FP,,1,,,,,,1
+arukiidou,arukiidou@yahoo.co.jp,junya koyama,arukiidou@yahoo.co.jp,0.285714286,1,0.142857143,0,FALSE,FALSE,FALSE,FALSE,TP,,1,,,,,,1
+avoidaway,cmoman@126.com,hanghuge,cmoman@outlook.com,0.117647059,1,0.117647059,1,FALSE,FALSE,FALSE,FALSE,TP,,1,,,,,,1
+cui fliter,imcusg@gmail.com,cuishuang,imcusg@gmail.com,0.315789474,1,0.5,0,FALSE,FALSE,FALSE,FALSE,TP,,1,,,,,,1
+ouyang1204,ouyang1204@gmail.com,unknown,ouyang1204@gmail.com,0.235294118,1,0.235294118,1,FALSE,FALSE,FALSE,FALSE,TP,,1,,,,,,1
+ouyang1204@gmail.com,ouyang1204@gmail.com,unknown,ouyang1204@gmail.com,0.24,1,0.24,1,FALSE,FALSE,FALSE,FALSE,TP,,1,,,,,,1
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+FP:,,,,,,,,,,,,,,,,,,,,
+C2,12,C2,12,,,,,,,,,,,,,,,,,
+C1 AND C5 AND C7,1,2+ triggers,4,,,,,,,,,,,,,,,,,
+C1 AND C2 AND C3,3,2 triggers,13,,,,,,,,,,,,,,,,,
+C2 AND C5,1,,,,,,,,,,,,,,,,,,,
+C1 ABD C3,5,,,,,,,,,,,,,,,,,,,
+C5 AND C7,4,,,,,,,,,,,,,,,,,,,
+C1 AND C5,2,,,,,,,,,,,,,,,,,,,
+C1 AND C6,1,,,,,,,,,,,,,,,,,,,
+,29,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+TP:,,,,,,,,,,,,,,,,,,,,
+C2,23,C2,23,,,,,,,,,,,,,,,,,
+2 triggers,29,More than 3 conditions,47,,,,,,,,,,,,,,,,,
+3 triggers,35,3 conditions,35,,,,,,,,,,,,,,,,,
+4 triggers,16,2 conditions,29,,,,,,,,,,,,,,,,,
+5 triggers,18,,,,,,,,,,,,,,,,,,,
+6 triggers,5,,,,,,,,,,,,,,,,,,,
+7 triggers,8,,,,,,,,,,,,,,,,,,,
+,134,,,,,,,,,,,,,,,,,,,

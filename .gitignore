@@ -1,0 +1,44 @@
+# --- Python build/cache ---
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+*.swp
+*.swo
+*.log
+
+# --- Virtual envs ---
+.venv/
+venv/
+ENV/
+env/
+
+# --- Packaging/build ---
+build/
+dist/
+*.egg-info/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Editors/IDEs ---
+.vscode/
+.idea/
+*.code-workspace
+
+# --- OS crap ---
+.DS_Store
+Thumbs.db
+
+# --- pytest / coverage / mypy ---
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.mypy_cache/
+.tox/
+.nox/
+
+# --- PyCharm pytest temp ---
+pytestdebug.log
