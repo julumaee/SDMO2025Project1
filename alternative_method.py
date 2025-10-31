@@ -9,7 +9,7 @@ import os
 
 def read_devs_from_csv(location, filename):
     """Read developers from a CSV file located at the specified location and filename.
-    Expects the CSV to have a header row."""
+    Expect the CSV to have a header row."""
     DEVS = []
     with open(os.path.join(location, filename), 'r', newline='') as csvfile:
         reader = csv.reader(csvfile, delimiter=',')
