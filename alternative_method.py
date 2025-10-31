@@ -76,9 +76,9 @@ def is_accepted(c1, c2, c31, c32, c4, c5, c6, c7, t):
     at_least_two = sum([c1_check, c3_check, c4, c5, c6, c7]) >= 2
     return c2_check or at_least_two
 
-def compute_similarity(DEVS, t):
+def compute_similarity(devs, t):
     SIMILARITY = []
-    for dev_a, dev_b in combinations(DEVS, 2):
+    for dev_a, dev_b in combinations(devs, 2):
         # Pre-process both developers
         name_a, first_a, last_a, i_first_a, i_last_a, email_a, prefix_a = process(dev_a)
         name_b, first_b, last_b, i_first_b, i_last_b, email_b, prefix_b = process(dev_b)

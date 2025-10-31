@@ -26,29 +26,29 @@ def test_c2_prefixes():
     pa = "github"
     pb = "github"
     c2 = file_to_test.c2_hit(pa, pb)
-    assert c2 == 0.0
+    assert abs(c2) == 0
     pa = "mail"
     pb = "mail"
     c2 = file_to_test.c2_hit(pa, pb)
-    assert c2 == 0.0
+    assert abs(c2) == 0
     pa = "user"
     pb = "user"
     c2 = file_to_test.c2_hit(pa, pb)
-    assert c2 == 0.0
+    assert abs(c2) == 0
     pa = "github"
     pb = "eemil.kulmala"
     c2 = file_to_test.c2_hit(pa, pb)
-    assert c2 == 0.0
+    assert abs(c2) == 0
     pa = "eemil.kulmala"
     pb = "mail"
     c2 = file_to_test.c2_hit(pa, pb)
-    assert c2 == 0.0
+    assert abs(c2) == 0
 
     # Test non-BANNED prefix:
     pa = "eemil.kulmala"
     pb = "eemil.kulmala"
     c2 = file_to_test.c2_hit(pa, pb)
-    assert c2 == 1.0
+    assert abs(c2) == 1
 
 def test_t3_acceptance_rule_variants():
     """Test different scenarios of the acceptance rule."""
